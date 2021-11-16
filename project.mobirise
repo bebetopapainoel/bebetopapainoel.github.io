@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Bebeto Papai Noel",
-    "currentPage": "papai-noel-empresas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,7 +47,7 @@
     "screenshot": "screenshot.png",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/15977125-229317947477924-1777017206886884250-n-128x128.png",
-    "mbrsiteDomain": "xaq6lmdumo",
+    "mbrsiteDomain": "ggjz9j8qy5",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -61,10 +61,11 @@
       "settings": {
         "main": true,
         "title": "Contratar Papai Noel Bebeto - Eventos presenciais e online",
-        "meta_descr": "",
+        "meta_descr": "Papai Noel para eventos presenciais em Belo Horizonte, Contagem, Nova Lima e Betim. Gravamos mensagens em vídeo e fazemos lives e eventos online.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/bebeto%20noel%20social%20share-2000x1046.jpg"
       },
       "components": [
         {
