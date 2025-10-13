@@ -1456,6 +1456,7 @@ section.lazy-placeholder:after {
   padding: 1rem;
   color: #fff;
   z-index: 2;
+  text-align: center;
 }
 .cid-sOVRmhT9dE .mbr-gallery-title:before {
   content: " ";
